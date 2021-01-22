@@ -1,0 +1,75 @@
+h1.topleftbg {
+height:500px;
+text-align:center;
+background-color: blue;
+background: url("dadimaa.jpg");
+height:400px;
+width:350px;
+
+background-size:cover;
+
+
+}
+
+
+h1.toprightbg{ align-content: right;
+	text-align:center;
+	background-image:url("dadaji.jpg");
+    height:400px;
+    width:350px;
+    background-size:cover;
+
+
+}
+
+
+#middles {
+    height:300px;
+    width:300px;
+    size:cover;
+    max-width:100%;
+
+}
+section#maincontent{
+	background:url("krishna.jpg");}
+
+
+
+
+ section#top{ margin:2px 500px 2px 500px;
+ 	
+
+
+ }
+
+
+ 
+
+
+p{width:900px;
+ text-align:center;
+ background-color: white;
+ opacity: .7;
+ color:blue;
+ padding:20px;
+ margin:20px 20px 60px 60px;
+
+}
+
+h2{color:white;
+   display: inline;
+
+
+
+
+
+
+}
+
+
+section#links{background-color:green;
+
+
+
+
+}
